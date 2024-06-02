@@ -11,11 +11,6 @@ if you want to know more there are videos of our Experts talking about that.
 
 Our motivation is to provide development teams with solid tools and an architecture to build **high-speed solutions** without worrying about scaffolding or tooling.
 
-
-## Community
-
-Made by C&C team :heart: for the community
-
 ## How to work with this repo?
 
 This repository should help you start faster a new Java application using the Hexagonal Architecture.
